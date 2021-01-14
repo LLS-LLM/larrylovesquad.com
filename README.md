@@ -1,2 +1,2 @@
 # larrylovessquad.com
-LarryLoveSquad.com website.
+<a href="http://larrylovesquad.com" target="new">LarryLoveSquad.com</a> website.
